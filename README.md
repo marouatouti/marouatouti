@@ -3,7 +3,6 @@
 🌟 **Bienvenue sur mon profil GitHub !**  
 📚 Je m'appelle **Maroua Touti**, j'ai 19 ans et je suis en pleine formation pour devenir conceptrice et développeuse junior.  
 🎯 Mon but ? Booster mes compétences et engranger un max d'expérience dans ce domaine pour devenir une pro du développement.  
-🔍 Jette un œil à mes projets réalisés pendant ma formation.  
 
 Si t'as des questions ou si tu veux papoter, n'hésite pas à m'envoyer un message.  
 Merci d'être passé(e) !
