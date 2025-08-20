@@ -1,10 +1,10 @@
 # 👋 Salut, c'est moi !
 
 🌟 **Bienvenue sur mon profil GitHub !**  
-📚 Je m'appelle **Maroua Touti**, j'ai 19 ans et je suis en pleine formation pour devenir conceptrice et développeuse junior.  
-🎯 Mon but ? Booster mes compétences et engranger un max d'expérience dans ce domaine pour devenir une pro du développement.  
+📚 Je m'appelle **Maroua Touti**, j'ai 21 ans et je suis à la recherche d'une **alternance en développement front-end**.  
+🎯 Mon objectif ? Mettre mes compétences en pratique sur des projets concrets et continuer à progresser pour devenir une pro du développement web.  
 
-Si t'as des questions ou si tu veux papoter, n'hésite pas à m'envoyer un message.  
+Si tu as des questions ou si tu veux échanger, n'hésite pas à m'envoyer un message.  
 Merci d'être passé(e) !
 
 ## 🌐 Réseaux sociaux :
@@ -22,4 +22,3 @@ Merci d'être passé(e) !
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-
